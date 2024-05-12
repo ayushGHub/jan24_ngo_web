@@ -461,7 +461,9 @@ https://templatemo.com/tm-516-known
   /*---------------------------------------
       ABOUT              
   -----------------------------------------*/
-
+  #about {
+  background: rgba(125, 125, 125, 0.1);
+  }
   #about figure {
     display: inline-block;
     vertical-align: top;
@@ -1094,8 +1096,9 @@ https://templatemo.com/tm-516-known
     }
   }
   
-
-
+.team {
+  background: rgba(125, 125, 125, 0.1);
+}
   
   .team_title {
     color: #000000;
