@@ -475,7 +475,7 @@ https://templatemo.com/tm-516-known
     margin-left: -15px;
     padding: 15px 20px;
     position: relative;
-    top: 20px;
+    top: 10px;
   }
 
   #about figure span i {
@@ -492,14 +492,14 @@ https://templatemo.com/tm-516-known
 
   .image-container {
     border: 2px solid #ccc; /* Border styling */
-    padding: 20px; /* Padding for the container */
+    padding: 10px; /* Padding for the container */
     max-width: 100%; /* Ensure the container doesn't exceed the screen width */
     overflow: hidden; /* Hide any overflow content */
 }
 
 .image-title {
     text-align: center; /* Center-align the title */
-    margin-bottom: 15px; /* Add space below the title */
+    margin-bottom: 5px; /* Add space below the title */
 }
 
 .image-container img {
@@ -1096,7 +1096,7 @@ https://templatemo.com/tm-516-known
     }
   }
   
-.team {
+#team {
   background: rgba(125, 125, 125, 0.1);
 }
   
